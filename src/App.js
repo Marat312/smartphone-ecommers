@@ -14,7 +14,6 @@ function App() {
   return (
     <div>
      <Routes />
-    {/* <Stripe/> */}
     </div>
   );
 }

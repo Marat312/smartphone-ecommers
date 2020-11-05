@@ -44,5 +44,5 @@ serviceWorker.unregister();
 const initialState = {
    products: [],
    addedItems: JSON.parse(localStorage.getItem("cartProduct")) || [],
-   total: JSON.parse(localStorage.getItem("cartProduct")).length || 0, 
+   total: JSON.parse(localStorage.getItem("cartProduct"))?.length || 0, 
  };

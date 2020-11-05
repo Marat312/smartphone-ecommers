@@ -29,8 +29,16 @@ render() {
     <div className="bg-light ff">
       <div >
         <Container className="d-flex justify-content-around align-items-center" >
-             <MDBNavLink  color="#7b3a5c" to="#!"> <MDBIcon size="2x" icon="map-marker-alt"/>ул.Манаса 312<br/> <span className="ml-4">г.Бишкек</span> </MDBNavLink> 
-                  <MDBNavLink className="nav-link"  to="/home"><img style={{marginTop:"-10px",marginBottom:"-15px"}}  src={logo}></img></MDBNavLink> 
+             <MDBNavLink  color="#7b3a5c" to="#!"> 
+                   <MDBIcon size="2x" icon="map-marker-alt"/>ул.Манаса 312<br/> 
+                   <span className="ml-4">г.Бишкек</span> 
+             </MDBNavLink> 
+
+             <MDBNavLink className="nav-link"  to="/home">
+                   <img style={{marginTop:"-10px",marginBottom:"-15px"}}  
+                   src={logo}></img>
+             </MDBNavLink> 
+             
              <MDBNavLink to="#!"> <MDBIcon size="2x" icon="phone"/> 0312 312 312</MDBNavLink>
         </Container>
             

@@ -45,17 +45,6 @@
       "category": "cheescake"
     },
     {
-      "id": 1600392256488,
-      "name": "donuts",
-      "number": "33",
-      "email": "demo@demo.com",
-      "product": "donuts",
-      "price": "34",
-      "info": "donuts",
-      "image": "https://images.unsplash.com/photo-1534380615157-f5df9a796818?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
-      "category": "donuts"
-    },
-    {
       "id": 1600393198259,
       "name": "cake",
       "number": "3232",
@@ -66,17 +55,6 @@
       "image": "https://images.unsplash.com/photo-1519340333755-56e9c1d04579?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
       "category": "cake",
       "productN": "cake"
-    },
-    {
-      "id": 1600408766537,
-      "name": "sdfwe",
-      "number": "342",
-      "email": "a@a",
-      "product": "sdfvs",
-      "price": "",
-      "info": "",
-      "image": "https://unsplash.com/photos/-hM0-PSO3FY",
-      "category": ""
     }
   ]
 }
